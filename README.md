@@ -145,5 +145,4 @@ Google Play Store’s adoption of Jetpack Compose has significantly improved its
 ## References
 
 -   [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
--   [Google Play Store UI Best Practices](https://developer.android.com/guide/practices/ui-guidelines)
--   [Material 3 Adaptive UI](https://developer.android.com/material3/adaptive-guidelines)
+-   [Google Play Store UI Best Practices](https://developer.android.com/guide/practices)
